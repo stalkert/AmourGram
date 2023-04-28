@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/a-gram/static/css/main.6ef87cce.css",
+    "main.css": "/a-gram/static/css/main.c9b2baf4.css",
     "main.js": "/a-gram/static/js/main.5aa56b3f.js",
     "index.html": "/a-gram/index.html",
-    "main.6ef87cce.css.map": "/a-gram/static/css/main.6ef87cce.css.map",
+    "main.c9b2baf4.css.map": "/a-gram/static/css/main.c9b2baf4.css.map",
     "main.5aa56b3f.js.map": "/a-gram/static/js/main.5aa56b3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ef87cce.css",
+    "static/css/main.c9b2baf4.css",
     "static/js/main.5aa56b3f.js"
   ]
 }
